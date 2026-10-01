@@ -1,0 +1,18 @@
+# Generated builds, emulator recordings, saves, and local editor/cache files.
+build/
+artifacts/
+captures/
+save-states/
+.cache/
+.local/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.sav
+*.srm
+*.log
+.env
+.env.*
+.codex/
+.agents/

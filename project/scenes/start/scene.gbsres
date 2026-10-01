@@ -1,0 +1,28 @@
+{
+  "_resourceType": "scene",
+  "id": "12f07015-0a42-504a-8d39-3f689e13ad3a",
+  "_index": 0,
+  "type": "TOPDOWN",
+  "name": "Closed stone room",
+  "symbol": "scene_start",
+  "x": 0,
+  "y": 0,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "d825b345-9b98-5a9f-852f-69c5f208f95b",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "479ee5b4-aeda-5f12-90e4-b58afea098e2"
+  ],
+  "spritePaletteIds": [
+    "6dcd5953-75d6-5411-872b-920ea7ad2ba8"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0f51+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f15+",
+  "playerSpriteSheetId": "b6587533-1c81-59a7-a747-e506d360ee00"
+}

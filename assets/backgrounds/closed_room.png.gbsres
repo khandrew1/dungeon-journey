@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d825b345-9b98-5a9f-852f-69c5f208f95b",
+  "name": "closed_room",
+  "symbol": "bg_closed_room",
+  "tileColors": "",
+  "filename": "closed_room.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}
